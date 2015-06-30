@@ -1,0 +1,6 @@
+/build/
+/.gradle/
+/gradle/
+gradle.properties
+hazelcast-test.iml
+/.idea/
